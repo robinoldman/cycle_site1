@@ -1,4 +1,5 @@
 from django.shortcuts import render
+from cycle.forms import LoginForm
 
 # Create your views here.
 def home(request):
