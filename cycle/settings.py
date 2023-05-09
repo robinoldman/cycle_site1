@@ -26,6 +26,7 @@ SECRET_KEY = 'django-insecure-q6ggau+z)rql$y=!3w#euak#sx!d7dl7k)tdltm4gd59*6=h4o
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-robinoldman-cycle-site1-wzo5oybcg8.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['localhost']
 
 
 # Application definition
