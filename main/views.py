@@ -5,4 +5,4 @@ def home(request):
     return render(request,'main/home.html')
 
 def user_login(request):
-    return render(request,'registration/login.html')
+    return render(request,'main/home.html')
